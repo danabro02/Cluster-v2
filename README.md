@@ -201,17 +201,3 @@ pm2 monit
 
 ---
 
-## **Conclusión**
-- **Sin clúster**, la aplicación maneja menos peticiones concurrentes debido a la ejecución en un solo hilo.
-- **Con clúster**, aprovechamos todos los núcleos de la CPU, mejorando la respuesta del servidor.
-- **PM2** permite gestionar y automatizar la ejecución de la aplicación de manera eficiente.
-
----
-
-### **Autor**
-_Tu Nombre_
-
----
-
-Si te ha servido este tutorial, no dudes en compartirlo o mejorarlo. 🚀
-
